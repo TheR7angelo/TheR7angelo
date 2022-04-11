@@ -123,11 +123,11 @@
 
 ### 📊 Mes statistiques GitHub :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheR7angelo&theme=onedark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheR7angelo)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheR7angelo&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheR7angelo&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheR7angelo&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheR7angelo&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheR7angelo&layout=compact&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheR7angelo&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ***
 
