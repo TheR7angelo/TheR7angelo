@@ -53,9 +53,9 @@
 </a>
 
 
-<!--- RubyMine --->
+<!--- Clion --->
 <a href="https://www.jetbrains.com/clion/" title="Clion">
-    <img alt="RubyMine" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/rubymine.svg" width="50" height="50">
+    <img alt="RubyMine" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/clion.svg" width="50" height="50">
 </a>
 
 
