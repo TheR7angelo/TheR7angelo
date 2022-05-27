@@ -10,14 +10,10 @@
 💡 J'adore apprendre et développer de nouvelles choses, mon but est de rendre   
 &nbsp;&nbsp;&nbsp;&nbsp; certaines choses du quotidien plus facile en créent des nouvelles applications et divers outils.   
 
-👨‍🎓 J'ai fais mes études dans le dessins industriel (Bac Pro EDPI > BTS CPI).    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aujourd'hui je m'oriente exclusivement à la programmation en tout genre.   
+👨‍🎓 J'ai fais mes études dans les siences ingénieur (Bac STI2D > BTS SNEC > Licence Pro MEE2D).    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aujourd'hui je m'oriente à la programmation en tout genre.   
 
 🌱 Mon but est d'apprendre sans cesses afin d'être le plus polyvalent et performant que possible.
-
-🎮 Je fais également sur mon temps perdu des Stream et vidéos à la fois sur de la programmation    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mais aussi sur des jeux vidéos ou j'ajoute une touche de programmation        
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; afin de rendre le contenu plus riche et diversifié.    
 
 ***
 
