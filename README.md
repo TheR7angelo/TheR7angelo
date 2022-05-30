@@ -151,7 +151,7 @@
 
 <!--- LinkedIn --->
 <a href="https://www.linkedin.com/in/raphaël-barrento-antunes-a3529017a/#gh-dark-mode-only" title="LinkedIn">
-    <img alt="LinkedIn" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/linkedin_light.svg" height="30">
+    <img alt="LinkedIn" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/linkedin_dark.svg" height="30">
 </a>
 <!--- LinkedIn --->
 <a href="https://www.linkedin.com/in/raphaël-barrento-antunes-a3529017a/#gh-light-mode-only" title="LinkedIn">
