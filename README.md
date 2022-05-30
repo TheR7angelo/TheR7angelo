@@ -118,16 +118,6 @@
     <img alt="AdobeXD" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/xd.svg" width="50" height="50">
 </a>
 
-<!--- C# --->
-<a href="https://docs.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp" title="C#">
-    <img alt="C#" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/C%23.svg" width="50" height="50">
-</a>
-
-<!--- Java --->
-<a href="https://www.java.com/fr/" title="Java">
-    <img alt="Java" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/java.svg" width="80" height="50">
-</a>
-
 <!--- Illustrator --->
 <a href="https://www.adobe.com/fr/products/illustrator.html?gclid=CjwKCAjwoduRBhA4EiwACL5RP5pFuDJ2_cSnmwMUvmW6SNGvgaClISfFPv1766YxHquwCzOQByADzRoCBhcQAvD_BwE&mv=search&mv=search&sdid=KCJMVLF6&ef_id=CjwKCAjwoduRBhA4EiwACL5RP5pFuDJ2_cSnmwMUvmW6SNGvgaClISfFPv1766YxHquwCzOQByADzRoCBhcQAvD_BwE:G:s&s_kwcid=AL!3085!3!394518377028!e!!g!!illustrator!1478148655!58836721124" title="Illustrator">
     <img alt="Illustrator" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/illustrator.svg" width="50" height="50">
@@ -136,6 +126,17 @@
 <!--- Indesign --->
 <a href="https://www.adobe.com/fr/products/indesign.html?gclid=CjwKCAjwoduRBhA4EiwACL5RP9FQxZh9_W4OadWRPXBbxfCpTE20fcVlXLnrWlXtHBBoxJNfBE97zBoC95EQAvD_BwE&mv=search&mv=search&sdid=LCDWTLJX&ef_id=CjwKCAjwoduRBhA4EiwACL5RP9FQxZh9_W4OadWRPXBbxfCpTE20fcVlXLnrWlXtHBBoxJNfBE97zBoC95EQAvD_BwE:G:s&s_kwcid=AL!3085!3!341217014074!e!!g!!indesign!1435912704!58952470471" title="Indesign">
     <img alt="Indesign" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/indesign.svg" width="50" height="50">
+</a>
+
+
+<!--- C# --->
+<a href="https://docs.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp" title="C#">
+    <img alt="C#" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/C%23.svg" width="50" height="50">
+</a>
+
+<!--- Java --->
+<a href="https://www.java.com/fr/" title="Java">
+    <img alt="Java" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/java.svg" width="80" height="50">
 </a>
 
 <!--- REGEX --->
