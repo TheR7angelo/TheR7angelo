@@ -22,6 +22,7 @@
 
 ### 📚 Les outils que j'utilise :
 - JetBrains : [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+    -
     <!--- PyCharm --->
     <a href="https://www.jetbrains.com/pycharm/" title="PyCharm">
         <img alt="PyCharm" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/pycharm.svg" width="50" height="50">
