@@ -125,7 +125,7 @@
 
 <!--- Java --->
 <a href="https://www.java.com/fr/" title="Java">
-    <img alt="Java" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/java.svg" width="50" height="50">
+    <img alt="Java" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/java.svg" width="80" height="50">
 </a>
 
 <!--- Illustrator --->
