@@ -112,14 +112,20 @@
 ***
 
 ### 🖥 Les logiciels/langages en cours d'apprentissage :
+ 
+<!--- Adobe XD --->
+<a href="https://www.adobe.com/fr/products/xd.html" title="Adobe XD">
+    <img alt="AdobeXD" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/xd.svg" width="50" height="50">
+</a>
 
 <!--- C# --->
 <a href="https://docs.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp" title="C#">
     <img alt="C#" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/C%23.svg" width="50" height="50">
+</a>
 
-<!--- REGEX --->
-<a href="https://fr.wikipedia.org/wiki/Expression_régulière" title="REGEX">
-    <img alt="REGEX" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/regex.svg" width="50" height="50">
+<!--- Java --->
+<a href="https://www.java.com/fr/" title="Java">
+    <img alt="Java" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/java.svg" width="50" height="50">
 </a>
 
 <!--- Illustrator --->
@@ -132,9 +138,9 @@
     <img alt="Indesign" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/indesign.svg" width="50" height="50">
 </a>
 
-<!--- Adobe XD --->
-<a href="https://www.adobe.com/fr/products/xd.html" title="Adobe XD">
-    <img alt="AdobeXD" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/xd.svg" width="50" height="50">
+<!--- REGEX --->
+<a href="https://fr.wikipedia.org/wiki/Expression_régulière" title="REGEX">
+    <img alt="REGEX" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/regex.svg" width="50" height="50">
 </a>
 
 ***
