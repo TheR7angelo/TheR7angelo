@@ -19,6 +19,16 @@
 
 ### 🖥 Les logiciels/langages que j'utilises :
 
+
+### 📚 Les outils que j'utilise :
+- JetBrains : [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+  - [PyCharm](https://www.jetbrains.com/pycharm/)
+    <!--- PyCharm --->
+    <a href="https://www.jetbrains.com/pycharm/" title="PyCharm">
+        <img alt="PyCharm" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/pycharm.svg" width="50" height="50">
+    </a>
+  
+
 <!--- Python --->
 <a href="https://www.python.org" title="Python">
     <img alt="Python" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/python.svg" width="50" height="50">
