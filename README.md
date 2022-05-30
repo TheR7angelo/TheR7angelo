@@ -50,16 +50,25 @@
     <a href="https://www.adobe.com/fr/products/indesign.html?gclid=CjwKCAjwoduRBhA4EiwACL5RP9FQxZh9_W4OadWRPXBbxfCpTE20fcVlXLnrWlXtHBBoxJNfBE97zBoC95EQAvD_BwE&mv=search&mv=search&sdid=LCDWTLJX&ef_id=CjwKCAjwoduRBhA4EiwACL5RP9FQxZh9_W4OadWRPXBbxfCpTE20fcVlXLnrWlXtHBBoxJNfBE97zBoC95EQAvD_BwE:G:s&s_kwcid=AL!3085!3!341217014074!e!!g!!indesign!1435912704!58952470471" title="Indesign">
         <img alt="Indesign" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/indesign.svg" width="50" height="50">
     </a>
-  
+
+- Microsoft : [Catalogue](https://www.microsoft.com/fr-fr/microsoft-365?rtc=1)
+    -
+    <!--- Excel --->
+    <a href="https://www.microsoft.com/fr-fr/microsoft-365/excel" title="Excel">
+        <img alt="Excel" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/excel.svg" width="50" height="50">
+    </a>
+    <!--- Word --->
+    <a href="https://www.microsoft.com/fr-fr/microsoft-365/word" title="Word">
+        <img alt="Word" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/word.svg" width="50" height="50">
+    </a>
+    <!--- VBA --->
+    <a href="https://docs.microsoft.com/fr-fr/office/vba/api/overview/" title="VBA">
+        <img alt="VBA" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/vba.svg" width="50" height="50">
+    </a>
 
 <!--- Python --->
 <a href="https://www.python.org" title="Python">
     <img alt="Python" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/python.svg" width="50" height="50">
-</a>
-
-<!--- VBA --->
-<a href="https://docs.microsoft.com/fr-fr/office/vba/api/overview/" title="VBA">
-    <img alt="VBA" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/vba.svg" width="50" height="50">
 </a>
 
 <!--- SQL --->
@@ -85,16 +94,6 @@
 <!--- GitHub --->
 <a href="https://github.com/TheR7angelo" title="GitHub">
     <img alt="GitHub" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/github.svg" width="50" height="50">
-</a>
-
-<!--- Excel --->
-<a href="https://www.microsoft.com/fr-fr/microsoft-365/excel" title="Excel">
-    <img alt="Excel" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/excel.svg" width="50" height="50">
-</a>
-
-<!--- Word --->
-<a href="https://www.microsoft.com/fr-fr/microsoft-365/word" title="Word">
-    <img alt="Word" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/word.svg" width="50" height="50">
 </a>
 
 ***
