@@ -22,11 +22,15 @@
 
 ### 📚 Les outils que j'utilise :
 - JetBrains : [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-  - [PyCharm](https://www.jetbrains.com/pycharm/)
     <!--- PyCharm --->
     <a href="https://www.jetbrains.com/pycharm/" title="PyCharm">
         <img alt="PyCharm" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/pycharm.svg" width="50" height="50">
     </a>
+    <!--- Clion --->
+    <a href="https://www.jetbrains.com/clion/" title="Clion">
+        <img alt="RubyMine" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/clion.svg" width="50" height="50">
+    </a>
+
   
 
 <!--- Python --->
@@ -47,16 +51,6 @@
 <!--- REGEX --->
 <a href="https://fr.wikipedia.org/wiki/Expression_régulière" title="REGEX">
     <img alt="REGEX" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/regex.svg" width="50" height="50">
-</a>
-
-<!--- PyCharm --->
-<a href="https://www.jetbrains.com/pycharm/" title="PyCharm">
-    <img alt="PyCharm" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/pycharm.svg" width="50" height="50">
-</a>
-
-<!--- Clion --->
-<a href="https://www.jetbrains.com/clion/" title="Clion">
-    <img alt="RubyMine" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/clion.svg" width="50" height="50">
 </a>
 
 <!--- DataGrip --->
