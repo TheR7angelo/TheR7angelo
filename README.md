@@ -20,13 +20,9 @@
 ### 📚 Les outils que j'utilise :
 - JetBrains : [IntelliJ IDEA](https://www.jetbrains.com/idea/)
     -
-    <!--- PyCharm --->
-    <a href="https://www.jetbrains.com/pycharm/" title="PyCharm">
-        <img alt="PyCharm" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/pycharm.svg" width="50" height="50">
-    </a>
     <!--- Clion --->
     <a href="https://www.jetbrains.com/clion/" title="Clion">
-        <img alt="RubyMine" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/clion.svg" width="50" height="50">
+        <img alt="Clion" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/clion.svg" width="50" height="50">
     </a>
     <!--- DataGrip --->
     <a href="https://www.jetbrains.com/datagrip/" title="DataGrip">
@@ -35,6 +31,14 @@
     <!--- Datalore --->
     <a href="https://datalore.jetbrains.com" title="Datalore">
         <img alt="Datalore" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/datalore.svg" width="50" height="50">
+    </a>
+    <!--- PyCharm --->
+    <a href="https://www.jetbrains.com/pycharm/" title="PyCharm">
+        <img alt="PyCharm" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/pycharm.svg" width="50" height="50">
+    </a>
+    <!--- Rider --->
+    <a href="https://www.jetbrains.com/rider/" title="Rider">
+      <img alt="Rider" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/rider.svg" width="50" height="50">
     </a>
 
 - Adobe : [Catalogue](https://www.adobe.com/fr/products/catalog.html)
