@@ -17,9 +17,6 @@
 
 ***
 
-### 🖥 Les logiciels/langages que j'utilises :
-
-
 ### 📚 Les outils que j'utilise :
 - JetBrains : [IntelliJ IDEA](https://www.jetbrains.com/idea/)
     -
@@ -101,14 +98,20 @@
       <img alt="Flaticon" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/flaticon.svg" width="50" height="50">
   </a>
 
-<!--- GitHub --->
-<a href="https://github.com/TheR7angelo" title="GitHub">
-    <img alt="GitHub" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/github.svg" width="50" height="50">
-</a>
+- Github : [Site](https://github.com/TheR7angelo), [Documentation](https://help.github.com/fr/github-basics/getting-started-with-github/))
+  -
+  <!--- GitHub --->
+  <a href="https://github.com/TheR7angelo" title="GitHub">
+      <img alt="GitHub" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/github.svg" width="50" height="50">
+  </a>
 
 ***
 
 ### 🖥 Les logiciels/langages en cours d'apprentissage :
+
+<!--- C# --->
+<a href="https://docs.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp" title="C#">
+    <img alt="C#" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/C#.svg" width="50" height="50">
 
 <!--- REGEX --->
 <a href="https://fr.wikipedia.org/wiki/Expression_régulière" title="REGEX">
