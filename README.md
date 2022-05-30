@@ -111,7 +111,7 @@
 
 <!--- C# --->
 <a href="https://docs.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp" title="C#">
-    <img alt="C#" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/C#.svg" width="50" height="50">
+    <img alt="C#" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/C%23.svg" width="50" height="50">
 
 <!--- REGEX --->
 <a href="https://fr.wikipedia.org/wiki/Expression_régulière" title="REGEX">
