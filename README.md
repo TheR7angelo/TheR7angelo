@@ -133,7 +133,6 @@
     <img alt="AdobeXD" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/xd.svg" width="50" height="50">
 </a>
 
-
 ***
 
 ### 📊 Mes statistiques GitHub :
