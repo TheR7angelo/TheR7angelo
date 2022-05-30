@@ -70,7 +70,7 @@
         <img alt="Qt" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/qt.svg" width="50" height="50">
     </a>
 
-### Les langages que j'utilise :
+### 🖥 Les langages que j'utilise :
 - Python : [Site](https://www.python.org/fr/), [Documentation](https://docs.python.org/3/))
     -
     <!--- Python --->
@@ -90,7 +90,7 @@
       <img alt="REGEX" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/regex.svg" width="50" height="50">
   </a>
 
-### Les sites que j'utilise :
+### 🌍 Les sites que j'utilise :
 - Icone : [Site](https://www.pexels.com/fr/), [Documentation](https://www.pexels.com/fr/documentation/))
   -
   <!--- Flaticon --->
