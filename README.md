@@ -51,7 +51,7 @@
         <img alt="Indesign" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/indesign.svg" width="50" height="50">
     </a>
 
-- Microsoft : [Catalogue](https://www.microsoft.com/fr-fr/microsoft-365?rtc=1)
+- Microsoft : [Site](https://www.microsoft.com/fr-fr/microsoft-365?rtc=1)
     -
     <!--- Excel --->
     <a href="https://www.microsoft.com/fr-fr/microsoft-365/excel" title="Excel">
@@ -66,30 +66,40 @@
         <img alt="VBA" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/vba.svg" width="50" height="50">
     </a>
 
-<!--- Python --->
-<a href="https://www.python.org" title="Python">
-    <img alt="Python" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/python.svg" width="50" height="50">
-</a>
+- Qt : [Site](https://www.qt.io/?hsLang=en)
+    -
+    <!--- Qt --->
+    <a href="https://www.qt.io" title="Qt">
+        <img alt="Qt" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/qt.svg" width="50" height="50">
+    </a>
 
-<!--- SQL --->
-<a href="https://sql.sh" title="SQL">
-    <img alt="SQL" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/sql.svg" width="50" height="50">
-</a>
+### Les langages que j'utilise :
+- Python : [Site](https://www.python.org/fr/), [Documentation](https://docs.python.org/3/))
+    -
+    <!--- Python --->
+    <a href="https://www.python.org" title="Python">
+        <img alt="Python" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/python.svg" width="50" height="50">
+    </a>
+- SQL : [Site](https://www.sql.org/), [Documentation](https://www.sql.org/docs/index.html))
+    -
+    <!--- SQL --->
+    <a href="https://sql.sh" title="SQL">
+        <img alt="SQL" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/sql.svg" width="50" height="50">
+    </a>
+- RegEx : [Site](https://www.regex101.com/), [Documentation](https://regex101.com/))
+  -
+  <!--- REGEX --->
+  <a href="https://fr.wikipedia.org/wiki/Expression_régulière" title="REGEX">
+      <img alt="REGEX" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/regex.svg" width="50" height="50">
+  </a>
 
-<!--- REGEX --->
-<a href="https://fr.wikipedia.org/wiki/Expression_régulière" title="REGEX">
-    <img alt="REGEX" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/regex.svg" width="50" height="50">
-</a>
-
-<!--- Flaticon --->
-<a href="https://www.adobe.com/fr/products/premiere.html" title="Flaticon Pro">
-    <img alt="Flaticon" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/flaticon.svg" width="50" height="50">
-</a>
-
-<!--- Qt --->
-<a href="https://www.qt.io" title="Qt">
-    <img alt="Qt" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/qt.svg" width="50" height="50">
-</a>
+### Les sites que j'utilise :
+- Icone : [Site](https://www.pexels.com/fr/), [Documentation](https://www.pexels.com/fr/documentation/))
+  -
+  <!--- Flaticon --->
+  <a href="https://www.adobe.com/fr/products/premiere.html" title="Flaticon Pro">
+      <img alt="Flaticon" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/flaticon.svg" width="50" height="50">
+  </a>
 
 <!--- GitHub --->
 <a href="https://github.com/TheR7angelo" title="GitHub">
