@@ -31,6 +31,15 @@
     <a href="https://www.jetbrains.com/clion/" title="Clion">
         <img alt="RubyMine" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/clion.svg" width="50" height="50">
     </a>
+    <!--- DataGrip --->
+    <a href="https://www.jetbrains.com/datagrip/" title="DataGrip">
+        <img alt="DataGrip" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/datagrip.svg" width="50" height="50">
+    </a>
+    <!--- Datalore --->
+    <a href="https://datalore.jetbrains.com" title="Datalore">
+        <img alt="Datalore" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/datalore.svg" width="50" height="50">
+    </a>
+
 
   
 
@@ -52,16 +61,6 @@
 <!--- REGEX --->
 <a href="https://fr.wikipedia.org/wiki/Expression_régulière" title="REGEX">
     <img alt="REGEX" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/regex.svg" width="50" height="50">
-</a>
-
-<!--- DataGrip --->
-<a href="https://www.jetbrains.com/datagrip/" title="DataGrip">
-    <img alt="DataGrip" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/datagrip.svg" width="50" height="50">
-</a>
-
-<!--- Datalore --->
-<a href="https://datalore.jetbrains.com" title="Datalore">
-    <img alt="Datalore" src="https://github.com/TheR7angelo/TheR7angelo/blob/master/assets/img/datalore.svg" width="50" height="50">
 </a>
 
 <!--- Flaticon --->
